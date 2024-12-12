@@ -1,0 +1,16 @@
+package com.in28minutes.learn_spring_framework;
+
+import com.in28minutes.learn_spring_framework.java.GameRunner;
+import com.in28minutes.learn_spring_framework.java.PacMan;
+
+public class App01GamingBasicJava {
+
+	public static void main(String[] args) {
+		//Launch a Spring Context - 
+		//Configure the things that we want Spring to manage - @Configuration
+		
+		
+
+	}
+
+}

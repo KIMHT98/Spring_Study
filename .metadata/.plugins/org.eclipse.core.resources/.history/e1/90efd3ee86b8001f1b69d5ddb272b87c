@@ -1,0 +1,19 @@
+package com.in28minutes.learn_spring_framework;
+
+import java.util.Arrays;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.in28minutes.learn_spring_framework.hello_world.HelloWorldConfiguration;
+import com.in28minutes.learn_spring_framework.hello_world.Person;
+
+public class App01GamingBasicJava {
+
+	public static void main(String[] args) {
+
+		
+		
+		
+	}
+
+}
