@@ -6555,3 +6555,9 @@ java.lang.IllegalStateException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-22 16:52:13.069
+!MESSAGE Classpath changed for project: 05_restful-web-services
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-12-22 16:52:23.405
+!MESSAGE The workspace will exit with unsaved changes in this session.
